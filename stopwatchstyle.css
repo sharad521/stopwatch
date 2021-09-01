@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+.mainbox{
+    border: solid;
+    width: 700px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 120px;
+    background-color: yellow;
+}
+.showarea{
+    display: flex;
+    flex-direction: column;
+}
+.watchdispaly{
+    border: solid;
+    width: 300px;
+    height: 100px;
+    margin-left: 170px;
+    margin-top: 55px;
+    font-size: 60px;
+    padding-left: 12px;
+    border-color: yellow;
+    display: flex;
+    flex-direction: row;
+}
+.choice{
+    margin-top: 60px;
+    margin-left: 70px;
+}
+.start{
+    width: 140px;
+    height: 70px;
+    font-size: 30px;
+    border-radius: 20px;
+    background-color: teal;
+}
+.stop{
+    width: 140px;
+    height: 70px;
+    font-size: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    background-color: teal;
+}
+.reset{
+    width: 140px;
+    height: 70px;
+    font-size: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    background-color: teal;
+}
+
